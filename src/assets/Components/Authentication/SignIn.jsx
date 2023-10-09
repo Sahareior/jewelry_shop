@@ -19,7 +19,10 @@ const SignIn = () => {
     const photo = formData.get("photo");
 
     // Log the form data to the console
-    console.log(username, email, pass, confirm, photo);
+    if(pass !== confirm){
+      alert('Passwords not matched')
+      return
+    }
 
        createUser(email,pass)
       .then((userCredential) => {

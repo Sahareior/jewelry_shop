@@ -33,11 +33,23 @@ const AddItems = () => {
         const image = e.target.image.value;
         const email = user.email;
         const category = e.target.category.value;
-
-        const data = {name, price, date, email, image, category}
-        postProduct(data)
-        e.target.reset();
+    
+        // Check if all fields are filled
+        if (name && price && date && image && email && category) {
+            const data = { name, price, date, email, image, category };
+    
+            // Call your API function to post the data (assuming postProduct is a function that posts the data)
+            postProduct(data);
+    
+            alert("Successfully uploaded your information");
+    
+            // Reset the form fields
+            e.target.reset();
+        } else {
+            alert("Please provide information about your product");
+        }
     };
+    
 
     return (
         <div className='py-12'>
