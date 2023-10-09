@@ -1,0 +1,42 @@
+[
+  {
+    "image": "https://img.freepik.com/premium-photo/photograph-shot-white-neck-wearing-luxury-diamond-necklace_950002-57258.jpg?size=626&ext=jpg&ga=GA1.1.10786356.1696485729&semt=ais",
+    "name": "Diamond Necklace",
+    "category": "Necklace",
+    "price": 1500,
+    "material": "Gold, Diamond",
+    "email": "sahareior@gmail.com"
+  },
+  {
+    "image": "https://img.freepik.com/premium-photo/silver-earring_57665-13067.jpg?size=626&ext=jpg&ga=GA1.1.10786356.1696485729&semt=ais",
+    "name": "Sapphire Earrings",
+    "category": "Earrings",
+    "price": 800,
+    "material": "Silver, Sapphire",
+    "email": "sahareior3@gmail.com"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/illustration-pair-earrings-with-gemstone-red-colors_1284-45577.jpg?size=626&ext=jpg&ga=GA1.1.10786356.1696485729&semt=ais",
+    "name": "Ruby Ring",
+    "category": "Ring",
+    "price": 1200,
+    "material": "Platinum, Ruby",
+    "email": "sahareior@gmail.com"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/emerald-gemstone-ring-collage_23-2150714263.jpg?size=626&ext=jpg&ga=GA1.1.10786356.1696485729&semt=ais",
+    "name": "Emerald Bracelet",
+    "category": "Bracelet",
+    "price": 1000,
+    "material": "Gold, Emerald",
+    "email": "sahareior3@gmail.com"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/colored-diadem-realistic_1284-18009.jpg?size=626&ext=jpg&ga=GA1.1.10786356.1696485729&semt=ais",
+    "name": "Pearl Tiara",
+    "category": "Tiara",
+    "price": 2000,
+    "material": "White Gold, Pearl",
+    "email": "sahareior4@gmail.com"
+  }
+]

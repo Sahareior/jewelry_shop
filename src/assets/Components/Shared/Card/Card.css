@@ -1,0 +1,17 @@
+/* Card.css */
+
+/* ... (your existing styles) */
+
+/* Initially hide the button */
+/* .container button {
+    opacity: 0;
+    transform: translateY(100%);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+  }
+  
+
+ .container .w-72:hover button {
+    opacity: 1;
+    transform: translateY(0);
+  } */
+  

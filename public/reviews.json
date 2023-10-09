@@ -1,0 +1,33 @@
+
+  [
+      {
+        "url": "https://example.com/background.jpg",
+        "id": 1,
+        "username": "user1",
+        "review": "I absolutely love the jewelry I purchased from this website! The quality is outstanding, and the designs are unique. Will definitely shop here again."
+      },
+      {
+        "url": "https://example.com/background.jpg",
+        "id": 2,
+        "username": "user2",
+        "review": "The jewelry collection is exquisite, and the customer service is excellent. My order arrived on time, and the packaging was elegant. Highly recommend this website!"
+      },
+      {
+        "url": "https://example.com/background.jpg",
+        "id": 3,
+        "username": "user3",
+        "review": "The website is user-friendly, and I found the perfect necklace for my anniversary. The prices are reasonable, and the shipping was fast. Very satisfied with my purchase!"
+      },
+      {
+        "url": "https://example.com/background.jpg",
+        "id": 4,
+        "username": "user4",
+        "review": "The jewelry pieces exceeded my expectations! They are even more beautiful in person. The website layout is great, making it easy to browse through the stunning collections."
+      },
+      {
+        "url": "https://example.com/background.jpg",
+        "id": 5,
+        "username": "user5",
+        "review": "I had a fantastic experience shopping here. The jewelry is high-quality, and the variety is impressive. The website's responsiveness on both desktop and mobile made my shopping convenient."
+      }
+    ]
